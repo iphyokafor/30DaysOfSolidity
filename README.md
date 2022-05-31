@@ -45,12 +45,22 @@ Solidity 30 day challenge with [codedamn](codedamn.com)
 
 ## [DAY 4](https://github.com/iphyokafor/30DaysOfSolidity/blob/main/day4.sol)
 
-### Task: Subtract the difference of a and b from the sum of a and b
+### Task: Write a function that subtracts the difference of two numbers a and b from the sum of a and b
 
-- [ ] CCreate a function evaluate(int a , int b).
+- [ ] Create a function evaluate(int a , int b).
 
 - [ ] Subtract the difference of a and b from the sum of a and b.
 
 - [ ] Return the result of the above task from the evaluate()
+
+#
+
+## [DAY 5](https://github.com/iphyokafor/30DaysOfSolidity/blob/main/day5.sol)
+
+### Task: Write a function that returns the remainder of a non-negative number when divided by 3
+
+- [ ] Create a function find(int a). Where a>0.
+
+- [ ] Return the remainder when a is divided by 3.
 
 #
