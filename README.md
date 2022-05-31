@@ -24,11 +24,25 @@ Solidity 30 day challenge with [codedamn](codedamn.com)
 1. Create a function that returns a state variable
 
 - [ ] Create a state variable and initialize it with 10.
+
 - [ ] Create a function returnStateVariable( ) which returns the value of the created state variable.
 
 2. Create a function that returns a local variable
 
 - [ ] Create a local variable and initialize it with 10.
+
 - [ ] Create a function returnLocalVariable( ) which returns the value of the created local variable.
+
+#
+
+## [DAY 3](https://github.com/iphyokafor/30DaysOfSolidity/blob/main/day3.sol)
+
+### Task: Pass an argument to a function
+
+- [ ] Create a state variable of uint type (need not to be public).
+
+- [ ] Create a set ( ) and with one argument. And set the value of the created state variable with the value passed as an argument to the set ( ).
+
+- [ ] Then create another function get ( ) which returns the value of the state variable.
 
 #
