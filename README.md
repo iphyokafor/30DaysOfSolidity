@@ -42,3 +42,15 @@ Solidity 30 day challenge with [codedamn](codedamn.com)
 - [ ] Then create another function get() which returns the value of the state variable.
 
 #
+
+## [DAY 4](https://github.com/iphyokafor/30DaysOfSolidity/blob/main/day4.sol)
+
+### Task: Subtract the difference of a and b from the sum of a and b
+
+- [ ] CCreate a function evaluate(int a , int b).
+
+- [ ] Subtract the difference of a and b from the sum of a and b.
+
+- [ ] Return the result of the above task from the evaluate()
+
+#
