@@ -64,3 +64,13 @@ Solidity 30 day challenge with [codedamn](codedamn.com)
 - [ ] Return the remainder when a is divided by 3.
 
 #
+
+## [DAY 6](https://github.com/iphyokafor/30DaysOfSolidity/blob/main/day6.sol)
+
+### Task: Write a function that returns the average of three numbers
+
+- [ ] Create a function average(int a,int b,int c). Where a>0,b>0,c>0.
+
+- [ ] Return the average of a,b and c.
+
+#
