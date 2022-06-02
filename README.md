@@ -74,3 +74,16 @@ Solidity 30 day challenge with [codedamn](codedamn.com)
 - [ ] Return the average of a,b and c.
 
 #
+
+## [DAY 7](https://github.com/iphyokafor/30DaysOfSolidity/blob/main/day7.sol)
+
+### Task: Write a function that returns the sum of digits (n) greater than zero.
+
+- [ ] Create a function digitSum(int n). Where n>0.
+
+- [ ] Return the sum of digit for n.
+
+* Example - If n=345 then digitSum() must return 12 i.e. 3+4+5 = 12
+If n=909 then digitSum() must return 18 i.e. 9+0+9 = 18
+
+#
