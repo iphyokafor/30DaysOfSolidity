@@ -84,7 +84,7 @@ Solidity 30 day challenge with [codedamn](codedamn.com)
 - [ ] Return the sum of digit for n.
 
 * Example - If `n = 345` then `digitSum()` must `return 12 i.e. 3+4+5 = 12`
-If `n = 909` then `digitSum()` must `return 18 i.e. 9+0+9 = 18`
+  If `n = 909` then `digitSum()` must `return 18 i.e. 9+0+9 = 18`
 
 #
 
@@ -101,11 +101,11 @@ If `n = 909` then `digitSum()` must `return 18 i.e. 9+0+9 = 18`
          S(n) = c for n=3
 
          S(n) = S(n-1) + S(n-2) + S(n-3) for n>3
-         
+
+
 - [ ] Create a `function nthTerm(uint n, uint a, uint b, uint c)` where n is the nth term to find and a, b, c are the three terms of the series.
 
-* Example - If `n = 5 a = 1 b = 2 c = 3` then `nthTerm()` must `return 11 as S(1) = 1 S(2) = 2
-S(3) = 3 S(4) = S(3) + S(2) + S(1) = 1 + 2 + 3 = 6 S(5) = S(4) + S(3) + S(2) = 6 + 3 + 2 = 11`
+* Example - If `n = 5 a = 1 b = 2 c = 3` then `nthTerm()` must `return 11 as S(1) = 1 S(2) = 2 S(3) = 3 S(4) = S(3) + S(2) + S(1) = 1 + 2 + 3 = 6 S(5) = S(4) + S(3) + S(2) = 6 + 3 + 2 = 11`
 
 #
 
@@ -114,11 +114,21 @@ S(3) = 3 S(4) = S(3) + S(2) + S(1) = 1 + 2 + 3 = 6 S(5) = S(4) + S(3) + S(2) = 6
 ### Task: Write a function that returns 1, if the number is a prime number and 0, if it's not.
 
 - [ ] A prime number is a whole number greater than 1. It has exactly two factors, that is, 1 and the number itself.
-         
 - [ ] Create a `function prime(uint n)` . This `prime()` will check whether n is a prime number or not.
 
 - [ ] If n is a prime number then `prime()` returns 1 and n is not prime then `prime()` must return 0.
 
 * Example - If `n = 103` then `prime()` must return 1 as 103 is a prime number. If `n = 200 `then `prime()` must return 0 as 200 is not a prime number.
+
+#
+
+## [DAY 10](https://github.com/iphyokafor/30DaysOfSolidity/blob/main/day10.sol)
+
+### Task: Write a function that returns the value of X raised to Y.
+
+- [ ] If y is a positive integer and x is any real number, then `x ^ y` corresponds to repeated multiplication `x ^ y = x×x×⋯×x` y times. We can call this “x raised to the power of y,” “x to the power of y,” or simply “x to the y.” Here, x is the base and y is the exponent or the power.
+- [ ] Create a `function power(uint x, uint y)` . This `power()` will calculate x raised to the power of y and return it.
+
+* Example - If `x = 2 y = 3` then `power()` must return 8 `(2 x 2 x 2 = 8)` If `x = 7` `y = 2`then `power()` must return 49 `(7 x 7 = 49)`
 
 #
