@@ -108,3 +108,17 @@ If `n = 909` then `digitSum()` must `return 18 i.e. 9+0+9 = 18`
 S(3) = 3 S(4) = S(3) + S(2) + S(1) = 1 + 2 + 3 = 6 S(5) = S(4) + S(3) + S(2) = 6 + 3 + 2 = 11`
 
 #
+
+## [DAY 8](https://github.com/iphyokafor/30DaysOfSolidity/blob/main/day8.sol)
+
+### Task: Write a function that returns 1, if the number is a prime number and 0, if it's not.
+
+- [ ] A prime number is a whole number greater than 1. It has exactly two factors, that is, 1 and the number itself.
+         
+- [ ] Create a `function prime(uint n)` . This `prime()` will check whether n is a prime number or not.
+
+- [ ] If n is a prime number then `prime()` returns 1 and n is not prime then `prime()` must return 0.
+
+* Example - If `n = 103` then `prime()` must return 1 as 103 is a prime number. If `n = 200 `then `prime()` must return 0 as 200 is not a prime number.
+
+#
