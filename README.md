@@ -109,7 +109,7 @@ S(3) = 3 S(4) = S(3) + S(2) + S(1) = 1 + 2 + 3 = 6 S(5) = S(4) + S(3) + S(2) = 6
 
 #
 
-## [DAY 8](https://github.com/iphyokafor/30DaysOfSolidity/blob/main/day8.sol)
+## [DAY 9](https://github.com/iphyokafor/30DaysOfSolidity/blob/main/day9.sol)
 
 ### Task: Write a function that returns 1, if the number is a prime number and 0, if it's not.
 
