@@ -132,3 +132,17 @@ Solidity 30 day challenge with [codedamn](codedamn.com)
 * Example - If `x = 2 y = 3` then `power()` must return 8 `(2 x 2 x 2 = 8)` If `x = 7` `y = 2`then `power()` must return 49 `(7 x 7 = 49)`
 
 #
+
+## [DAY 11](https://github.com/iphyokafor/30DaysOfSolidity/blob/main/day11.sol)
+
+### Task: Write a function that checks if a number is a palindrome or not.
+
+- [ ] A palindrome number is a number that is same after reverse. For example 545, 151, 34543 etc.
+
+- [ ] Create a `function palindrome(uint n)` . This `palindrome()` will check whether `n` is a palindrome or not.
+
+-[ ] if `n` is a palindrome then `palindrome()` returns 1 and `n` is not palindrome then `palindrome()` must return 0.
+
+* Example - If `n = 545` then `palindrome()` must return 1. If `n = 123` then `palindrome()` must return 0.
+
+#
