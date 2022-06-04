@@ -146,3 +146,13 @@ Solidity 30 day challenge with [codedamn](codedamn.com)
 * Example - If `n = 545` then `palindrome()` must return 1. If `n = 123` then `palindrome()` must return 0.
 
 #
+
+## [DAY 12](https://github.com/iphyokafor/30DaysOfSolidity/blob/main/day12.sol)
+
+### Task: Write a function that returns the reverse of a number.
+
+- [ ] Create a `function reverseDigit(uint n)` . This `reverseDigit()` will do the reversal of the number n.
+
+* Example - If `n = 123` then `reverseDigit()` must return 321. If `n = 5342` then `reverseDigit()` must return 2435.
+
+#
