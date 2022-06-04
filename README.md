@@ -141,7 +141,7 @@ Solidity 30 day challenge with [codedamn](codedamn.com)
 
 - [ ] Create a `function palindrome(uint n)` . This `palindrome()` will check whether `n` is a palindrome or not.
 
-- [ ] if `n` is a palindrome then `palindrome()` returns 1 and `n` is not palindrome then `palindrome()` must return 0.
+- [ ] If `n` is a palindrome then `palindrome()` returns 1 and `n` is not palindrome then `palindrome()` must return 0.
 
 * Example - If `n = 545` then `palindrome()` must return 1. If `n = 123` then `palindrome()` must return 0.
 
