@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.5.0 <0.9.0;
 
-contract Day3 {
+contract Day15 {
     function sort(int256[] memory array, uint256 size)
         public
         pure
