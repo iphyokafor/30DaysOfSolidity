@@ -180,3 +180,15 @@ Solidity 30 day challenge with [codedamn](codedamn.com)
 * For Example - If `array = [2,5,11,1]` then `even()` will return `[4,10,22,2,]`. If `array = [1,3,5,7]` then `even()` will return `[2,6,10,14]`.
 
 #
+
+## [DAY 15](https://github.com/iphyokafor/30DaysOfSolidity/blob/main/day15.sol)
+
+### Task: Write a function that sorts an array in ascending order.
+
+- [ ] Create a `function sort(array, length of array)` . This `sort()` will take two arguments - a dynamic uint type array and length of the array.
+
+- [ ] The `sort()` will sort the array elements in ascending order. 
+
+* For Example - If `array = [2,5,9,11,1]` then `sort()` will return `[1,2,5,9,11]`. If `array = [90,20,30,10]` then `sort()` will return `[10,20,30,90]`.
+
+#
