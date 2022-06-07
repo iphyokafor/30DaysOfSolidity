@@ -218,3 +218,15 @@ Solidity 30 day challenge with [codedamn](codedamn.com)
 * For Example - If `array = [4, 2, 3, 4]` search element = 2 then `search()` will return 1. If `array = [1, 2, 3]` search element = 4 then `search()` will return 0.
 
 #
+
+## [DAY 18](https://github.com/iphyokafor/30DaysOfSolidity/blob/main/day18.sol)
+
+### Task: Write a function that returns the sum of an array.
+
+- [ ] Create a `function sumArray(array, length of array)` . This `sumArray()` will take two arguments - a dynamic int type array and length of the array.
+
+- [ ] The `sumArray()` will add all elements of an array.
+
+* For Example - If `array = [4, 2, 3, 4]` then `sumArray()` will return 13 i.e. `4 + 2 + 3 + 4 = 13` If `array = [1, 2, 3]` then `sumArray()` will return 6 i.e. `1 + 2 + 3 = 6`.
+
+#
