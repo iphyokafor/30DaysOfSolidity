@@ -204,3 +204,17 @@ Solidity 30 day challenge with [codedamn](codedamn.com)
 * For Example - If `array = [4, 2, 3, 4]` then `distinct()` will return 3. If `array = [1, 1, 1]` then `distinct()` will return 1.
 
 #
+
+## [DAY 17](https://github.com/iphyokafor/30DaysOfSolidity/blob/main/day17.sol)
+
+### Task: Write a function that checks if an element is in an array.
+
+- [ ] Create a `function search(array, length of array,element to search)` . This `search()` will take three arguments - a dynamic uint type array ,length of the array, element that we need to search.
+
+- [ ] The `search()` will search an element in an array.
+
+- [ ] If element is found then it will return 1 otherwise 0.
+
+* For Example - If `array = [4, 2, 3, 4]` search element = 2 then `search()` will return 1. If `array = [1, 2, 3]` search element = 4 then `search()` will return 0.
+
+#
