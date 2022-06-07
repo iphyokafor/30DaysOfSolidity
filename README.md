@@ -192,3 +192,15 @@ Solidity 30 day challenge with [codedamn](codedamn.com)
 * For Example - If `array = [2,5,9,11,1]` then `sort()` will return `[1,2,5,9,11]`. If `array = [90,20,30,10]` then `sort()` will return `[10,20,30,90]`.
 
 #
+
+## [DAY 16](https://github.com/iphyokafor/30DaysOfSolidity/blob/main/day16.sol)
+
+### Task: Write a function that returns the number of distinct elements in an array.
+
+- [ ] Create a `function distinct(array, length of array)` . This `distinct()` will take two arguments - a dynamic uint type array and length of the array.
+
+- [ ] The `distinct()` will return the number of distinct elements in an array.
+
+* For Example - If `array = [4, 2, 3, 4]` then `distinct()` will return 3. If `array = [1, 1, 1]` then `distinct()` will return 1.
+
+#
