@@ -261,3 +261,16 @@ Solidity 30 day challenge with [codedamn](codedamn.com)
 
 * For Example - If `num1 = 60` `num2 = 75` then `hcf()` will return 15. If `num1 = 31` and `num2 = 23` then `hcf()` will return 1.
 #
+
+
+## [DAY 22](https://github.com/iphyokafor/30DaysOfSolidity/blob/main/day22.sol)
+### Task: Define a structure (struct). Write setter and getter function use cases for it.
+
+- [ ] Create a structure -> `struct Book { string title; string author; uint256 book_id; }`
+
+- [ ] Create two functions 
+
+a) `setBook(title(string),author(string),id(uint))` - To set the book title, author and id given in the structure.
+
+b) `getBook()` - To get the book title, author and id.
+#
