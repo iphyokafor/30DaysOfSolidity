@@ -241,3 +241,13 @@ Solidity 30 day challenge with [codedamn](codedamn.com)
 * For Example - If `x = 2` `n = 3` then `expression()` will return 15. If `x = 5` `n = 1` then `expression()` will return 6.
 
 #
+
+## [DAY 20](https://github.com/iphyokafor/30DaysOfSolidity/blob/main/day20.sol)
+### Task: Write a function that returns the second largest element in an array.
+
+- [ ] Create a `function secondMax(array, length of array)` . This `secondMax()` will take two arguments - a dynamic int type array and length of the array.
+
+- [ ] The `secondMax()` will find the second largest element in an array. 
+
+* For Example - If `array = [40, 12, 31, 6]` then `secondMax()` will return 31. If `array = [9, 122, 37, 54]` then `secondMax()` will return 54.
+#
