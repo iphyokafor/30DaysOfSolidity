@@ -230,3 +230,14 @@ Solidity 30 day challenge with [codedamn](codedamn.com)
 * For Example - If `array = [4, 2, 3, 4]` then `sumArray()` will return 13 i.e. `4 + 2 + 3 + 4 = 13` If `array = [1, 2, 3]` then `sumArray()` will return 6 i.e. `1 + 2 + 3 = 6`.
 
 #
+
+## [DAY 19](https://github.com/iphyokafor/30DaysOfSolidity/blob/main/day19.sol)
+### Task: Write a function that returns the sum of the series `1 + x + x^2+ x^3+ .. + x^n`
+
+- [ ] Create a `function expression(x, n)`.
+
+- [ ] The `expression()` will find the sum of the above expression. 
+
+* For Example - If `x = 2` `n = 3` then `expression()` will return 15. If `x = 5` `n = 1` then `expression()` will return 6.
+
+#
