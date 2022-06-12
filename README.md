@@ -276,7 +276,7 @@ b) `getBook()` - To get the book title, author and id.
 #
 
 ## [DAY 23](https://github.com/iphyokafor/30DaysOfSolidity/blob/main/day23.sol)
-### Task: Define an array structure (struct). Write setter and getter function use cases for it.
+### Task: Define an array of structure (struct). Write setter and getter function use cases for it.
 
 - [ ] Create "Book type" dynamic array. This "Book type" array will contain different types of Book.
 
@@ -287,4 +287,16 @@ b) `getBook()` - To get the book title, author and id.
 a) `setBook(title(string), author(string), id(uint))` - To set the book title, author and id given in the "Book type" array.
 
 b) `getBook(id(uint))` - To get the book title, author and id of the Book whose id is passed as an argument.
+#
+
+## [DAY 24](https://github.com/iphyokafor/30DaysOfSolidity/blob/main/day24.sol)
+### Task: Define an array within a structure (struct). Write setter and getter function use cases for it.
+
+- [ ] Create a structure -> `struct Student { string name; uint256[3] marks; }`
+
+- [ ] Create two functions
+
+a) `set(name of student, marks in maths, marks in science, marks in english)` - To set the name and marks of a student in marks array.
+
+b) `get()` - To get the name, marks in maths, marks in science and marks in english of the student.
 #
