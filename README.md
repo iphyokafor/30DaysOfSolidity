@@ -300,3 +300,15 @@ a) `set(name of student, marks in maths, marks in science, marks in english)` - 
 
 b) `get()` - To get the name, marks in maths, marks in science and marks in english of the student.
 #
+
+## [DAY 25](https://github.com/iphyokafor/30DaysOfSolidity/blob/main/day25.sol)
+### Task: Define an enum. Write setter and getter function use cases for it.
+
+- [ ] Create an -> `enum House { SMALL, MEDIUM, LARGE }`
+
+- [ ] Create a variable of enum type.
+
+- [ ] Create a `function setLarge()`. This will set the value of the enum type variable (created at step 2) with LARGE.
+
+- [ ] Create a `function getChoice()` which will return the value of the enum type variable (created at step 2) .
+#
