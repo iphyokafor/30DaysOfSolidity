@@ -312,3 +312,14 @@ b) `get()` - To get the name, marks in maths, marks in science and marks in engl
 
 - [ ] Create a `function getChoice()` which will return the value of the enum type variable (created at step 2) .
 #
+
+## [DAY 26](https://github.com/iphyokafor/30DaysOfSolidity/blob/main/day26.sol)
+### Task: Write a function that returns the address of the owner of a contract.
+
+- [ ] Create a `constructor()` to hold the address of the owner. [Hint: use msg.sender].
+
+- [ ] Create a `function returnOwner()` which returns the address of the owner.
+
+- [ ] This `returnOwner()` can only be called by the owner (that we set using `constructor()`). 
+If some other address tries to call this `returnOwner()`, it should revert with this statement "You are not the owner".
+#
