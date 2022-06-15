@@ -323,3 +323,18 @@ b) `get()` - To get the name, marks in maths, marks in science and marks in engl
 - [ ] This `returnOwner()` can only be called by the owner (that we set using `constructor()`). 
 If some other address tries to call this `returnOwner()`, it should revert with this statement "You are not the owner".
 #
+
+## [DAY 27](https://github.com/iphyokafor/30DaysOfSolidity/blob/main/day27.sol)
+### Task: Define a mapping, write functions to update and retrieve values from a mapping.
+
+- [ ] Create a `mapping(address => uint256)`.
+
+- [ ] Create a `function updateBalance(balance to update)` . 
+      This `updateBalance()` will take one argument - a uint type variable. 
+      This function will update the balance of the address who has called this `updateBalance()`.
+
+- [ ] Create a function `checkBalance(address of a user)` . This `checkBalance(address user)` will take one argument - a address type variable. 
+      This function will return the balance of the user who has called this function. 
+      With this function user can only check his/her own balance only. 
+      If the user tries to check some other address balance the `checkBalance()` should revert with "You are not the owner of the account".
+#
