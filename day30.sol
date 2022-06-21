@@ -30,4 +30,15 @@ contract Day30 {
 
         return string(str_bytes);
     }
+
+    // A simpler solution
+     function concatenateStrings(string memory str1, string memory str2)
+        public
+        pure
+        returns (string memory)
+    {
+        bytes memory concat = (abi.encodePacked(str1, str2));
+
+        return string(concat);
+    }
 }
