@@ -354,3 +354,17 @@ If some other address tries to call this `returnOwner()`, it should revert with 
 
 - For Example - If address array =[0x412, 0x2ab, 0x3de] and amount array = [10,5,90] then send() will transfer amount 10 to address 0x412 , amount 5 to address 0x2ab, amount 90 to address 03de.
 #
+
+## [DAY 29](https://github.com/iphyokafor/30DaysOfSolidity/blob/main/day29.sol)
+### Task: Write a function which returns the addresses of team players.
+
+- [ ] Create an array which stores addresses of the team players.
+
+- [ ] Create an array(address type) which stores only 16 elements.
+
+- [ ] `getTeamPlayers()` - To return the entire array elements.
+
+- [ ] `selectJerseyNumber()` - It will take only one argument of uint type and returns the players address from the array created above.
+
+      a) The argument passed into the function must be greater than equal to zero and less than equal to 15. [Hint - Use require]
+#
