@@ -37,8 +37,6 @@ contract Day30 {
         pure
         returns (string memory)
     {
-        bytes memory concat = (abi.encodePacked(str1, str2));
-
-        return string(concat);
+        return string(abi.encodePacked(str1, str2));
     }
 }
