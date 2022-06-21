@@ -368,3 +368,10 @@ If some other address tries to call this `returnOwner()`, it should revert with 
 
       a) The argument passed into the function must be greater than equal to zero and less than equal to 15. [Hint - Use require]
 #
+
+## [DAY 30](https://github.com/iphyokafor/30DaysOfSolidity/blob/main/day30.sol)
+### Task: Write a function that concatenates two strings and returns the value of the concatenated strings.
+
+- [ ] `concatenate()` - This function will take two arguments i.e string 1 and string 2. 
+       It will concatenate string 1 and string 2 and will return the concatenated string.
+#
